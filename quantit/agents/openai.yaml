@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quantit"
+  short_description: "Build and verify quantization experiments"
+  default_prompt: "Use $quantit to set up a reproducible quantization experiment."

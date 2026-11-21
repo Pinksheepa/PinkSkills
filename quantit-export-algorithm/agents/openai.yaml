@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quantit Export Algorithm"
+  short_description: "Package a quantization algorithm as a skill"
+  default_prompt: "Use $quantit-export-algorithm to export a standalone algorithm skill."
